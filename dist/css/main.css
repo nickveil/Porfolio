@@ -1,6 +1,12 @@
 body {
   position: relative;
-  padding: 50px; }
+  padding: 50px;
+  background-color: #CCC; }
+
+footer {
+  display: inline-block;
+  width: 100%;
+  text-align: center; }
 
 .content {
   position: relative;
